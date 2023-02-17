@@ -8,15 +8,25 @@
 
           <!--Left Sidebar-->
 
-          <div class="md:block xs-col-span-1 xl:col-span-2">
+          <div class="hidden md:block xs-col-span-1 xl:col-span-2">
             <div class="sticky top-0">
               <SidebarLeft />
             </div>
           </div>
 
           <!--Mid Content-->
+          
+          <main class="col-span-12 md:col-span-8 xl:col-span-6 bg-red-500">
+            <h1>asdasd</h1>
+          </main>
 
           <!--Right Sidebar-->
+
+          <div class="hidden md:block xl-col-span-4 md:col-span-3 bg-blue-500">
+            <div class="sticky top-0">
+              <h1>Right sidebar</h1>
+            </div>
+          </div>
 
         </div>
 
