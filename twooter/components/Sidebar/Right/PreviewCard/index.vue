@@ -1,7 +1,7 @@
 <template>
     <div class="m-2 overflow-hidden border rounded-2xl bg-gray-50 dark:bg-dim-700" :class="twooterBorderColor">
 
-        <h1 class="p-3 text-xl font-extrabold text-gray-900 border-b dark:text-white">
+        <h1 class="p-3 text-xl font-extrabold text-gray-900 border-b dark:text-white" :class="twooterBorderColor">
             {{ props.title }}
         </h1>
 
