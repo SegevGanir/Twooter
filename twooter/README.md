@@ -1,42 +1,11 @@
-# Nuxt 3 Minimal Starter
+Hi there. 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is Twooter. 
 
-## Setup
+It might look similar to Twitter, but I assure you, this was made before. Elon copied and im sueing for lots of money 🤣. 
 
-Make sure to install the dependencies:
+All jokes aside, this is a really close copy of twitter named twooter. 
 
-```bash
-# yarn
-yarn install
+eenjoy!
 
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+-Segev (Seggy) Ganir.  
